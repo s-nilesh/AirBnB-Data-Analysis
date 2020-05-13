@@ -1,5 +1,7 @@
 # AirBnB Data Analysis for Seattle
 
+I have written a blog post for this project, you can have a look at it [here](https://medium.com/p/152791cbae0a/edit)
+
 <img src='./visualizations/airbnb_indoor.jpg'>
 
 This repo contains analysis of AirBnB Data of Seattle city for year 2016-17.<br>
@@ -29,7 +31,8 @@ This repo contains all of the above mentioned steps in `airbnb-analysis.ipynb`.
 
 ## Installation
 
-In order to be able to execute your own python statements it should be noted that scripts are only tested on **anaconda distribution 4.5.11** in combination with **python 3.6.6**. The scripts don't require additional python libraries.
+In order to be able to execute your own python statements follow this command to install all requirments:<br>
+- `pip install -r requirements.txt`
 
 Two quick start options are available:
 - [Download the latest release.](https://github.com/s-nilesh/AirBnB-Data-Analysis/archive/master.zip)
@@ -45,7 +48,6 @@ AirBnB-Data-Analysis/
 ├── airbnb-analysis.ipynb
 ├── calendar_seattle.csv
 ├── listings_seattle.csv
-├── model.pkl
 ├── README.md
 ├── reviews_seattle.csv
 ├── seattle.zip
@@ -71,7 +73,6 @@ AirBnB-Data-Analysis/
 - listings_seattle.csv  ==> Information of houses in Seattle.
 - reviews_seattle.csv   ==> Reviews of houses in Seattle.
 - seattle.zip           ==> Zip file containing all three datasets.
-- model.pkl             ==> Trained model to predict booking price.
 - visualizations        ==> Plots and graphs generated while analyzing data.
 
 ## Motivation
