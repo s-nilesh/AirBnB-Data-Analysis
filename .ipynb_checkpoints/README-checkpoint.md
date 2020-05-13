@@ -1,6 +1,6 @@
 # AirBnB Data Analysis for Seattle
 
-I have written a blog post for this project, you can have a look at it [here](https://medium.com/p/152791cbae0a/edit)
+I have written a blog post for this project, you can have a look at it [here](https://towardsdatascience.com/analysis-price-modeling-and-prediction-airbnb-data-for-seattle-2016-17-152791cbae0a)
 
 <img src='./visualizations/airbnb_indoor.jpg'>
 
